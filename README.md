@@ -17,4 +17,4 @@ The model is fine-tuned using the pretrained roberta-base with LoRA.
 
 
 
-Trained weight is stored in the OneDrive: https://livemanchesterac-my.sharepoint.com/:u:/g/personal/ziyi_wang-22_student_manchester_ac_uk/ERKNvqve5pZEj2iPKG9XMykBKQg2ynxxJ_KyEaYklFA_Rg?e=yfb5MM
+Trained weight is stored in the OneDrive: [roberta_lora_weight](https://livemanchesterac-my.sharepoint.com/:u:/g/personal/ziyi_wang-22_student_manchester_ac_uk/ERKNvqve5pZEj2iPKG9XMykBKQg2ynxxJ_KyEaYklFA_Rg?e=yfb5MM).
