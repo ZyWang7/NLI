@@ -5,6 +5,8 @@ Train a model to perform Natural Language Inference task. Given a premise and a 
 ### Training Data
 Randomly select 80% of the original data set ("train.csv") as the new training data set, and the remaining 20% as the test data set, and saved into new file: "train_data.csv" and "test_data.csv".
 
+Data is available in: [Data](https://livemanchesterac-my.sharepoint.com/:f:/g/personal/ziyi_wang-22_student_manchester_ac_uk/EuyPDqTDQjpImKZC6xDMAF4Bq3yP55MVQNVGDLKqQHD0UQ?e=zdH10J).
+
 
 ### Model
 The model is fine-tuned using the pretrained roberta-base with LoRA.
